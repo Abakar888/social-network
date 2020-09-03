@@ -1,12 +1,13 @@
 .nav{
     grid-area: n;
     background-color: burlywood;
+    padding: 20px;
   }
 .item{
     font-size: 25px;
     color: white;
 }
-.nav__link.active{
+.nav__link.activeLink{
     color: green;
 }
 .nav__link{
