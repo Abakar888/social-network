@@ -1,0 +1,15 @@
+.nav{
+    grid-area: n;
+    background-color: burlywood;
+  }
+.item{
+    font-size: 25px;
+    color: white;
+}
+.nav__link.active{
+    color: green;
+}
+.nav__link{
+    text-decoration: none;
+    color: white;
+}
